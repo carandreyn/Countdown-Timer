@@ -1,0 +1,11 @@
+C:\Users\caran\source\repos\Countdown Timer\Countdown Timer\bin\Debug\Countdown Timer.exe.config
+C:\Users\caran\source\repos\Countdown Timer\Countdown Timer\bin\Debug\Countdown Timer.exe
+C:\Users\caran\source\repos\Countdown Timer\Countdown Timer\bin\Debug\Countdown Timer.pdb
+C:\Users\caran\source\repos\Countdown Timer\Countdown Timer\obj\Debug\Countdown Timer.csproj.AssemblyReference.cache
+C:\Users\caran\source\repos\Countdown Timer\Countdown Timer\obj\Debug\Countdown Timer.csproj.SuggestedBindingRedirects.cache
+C:\Users\caran\source\repos\Countdown Timer\Countdown Timer\obj\Debug\Countdown_Timer.Form1.resources
+C:\Users\caran\source\repos\Countdown Timer\Countdown Timer\obj\Debug\Countdown_Timer.Properties.Resources.resources
+C:\Users\caran\source\repos\Countdown Timer\Countdown Timer\obj\Debug\Countdown Timer.csproj.GenerateResource.cache
+C:\Users\caran\source\repos\Countdown Timer\Countdown Timer\obj\Debug\Countdown Timer.csproj.CoreCompileInputs.cache
+C:\Users\caran\source\repos\Countdown Timer\Countdown Timer\obj\Debug\Countdown Timer.exe
+C:\Users\caran\source\repos\Countdown Timer\Countdown Timer\obj\Debug\Countdown Timer.pdb
